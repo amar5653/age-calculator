@@ -6,8 +6,8 @@
 }
 body{
     height: 100vh;
-    background: linear-gradient(#87a436, #aa6e7d);
-    color:rgb(86, 58, 12);
+    background: linear-gradient(#36a49e, #aa6e7d);
+    color:rgb(12, 77, 86);
 }
 .main{
     margin:100px 80px;
@@ -29,7 +29,7 @@ body{
 border:none;
 outline:none;
 border-radius: 5px;
-color:#513109;
+color:rgb(12, 77, 86);
 padding:5px;
 }
 .container #btn{
@@ -41,4 +41,12 @@ border-radius: 50px;
 background: linear-gradient(#02391b,#385509);
 color:#e8c393;
 padding:10px;
+}
+.result{
+    margin:10px;
+    padding:10px;
+    font-size:20px;
+}
+.result span {
+    color:#7520c0;
 }
